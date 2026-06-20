@@ -1,2 +1,2 @@
-# git-course
+# haboba2006
 ## project notes
